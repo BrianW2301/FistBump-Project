@@ -1,0 +1,24 @@
+GPA: 3.2
+Skills: 
+	Python
+	Java
+	JavaScript
+	HTML
+	CSS
+Past Employment: 
+Software Developer
+	JP Morgan
+	Internship
+	05/1/2019 - 08/1/2019
+	Created JUnit test cases to test new features of the back end of the banks website
+	Managed incoming customers and future predictions
+Test Engineer
+	Bank of America
+	Internship
+	05/1/2020 - 08/1/2020
+	Created JUnit test cases to test new features of the back end of the banks website
+	Executed test cases and reported issues to engineering
+Education: 
+UofSC
+	Bachelor's of Computer Science
+	Graduation 05/1/2023
